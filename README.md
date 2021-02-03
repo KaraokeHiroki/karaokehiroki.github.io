@@ -1,2 +1,1 @@
 # KaraokeHiroki.github.io
-Hello
